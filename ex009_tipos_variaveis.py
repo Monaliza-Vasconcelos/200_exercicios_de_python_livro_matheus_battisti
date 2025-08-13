@@ -16,3 +16,5 @@ print(f'Já a variável global pode ser utilizada em todo o código, {var_global
     vai retornar um NameError, pois a variável só vai existir enquanto a função estiver
     rodando...
 """
+
+#teste
