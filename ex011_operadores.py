@@ -1,0 +1,11 @@
+n1 = int(input('Digite um valor: '))
+n2 = int(input('Digite outro valor: '))
+
+print('-'*30)
+print(f'Calculando {n1} e {n2}'.center(30))
+print('-'*30)
+print(f'Somando {n1} e {n2} temos {n1+n2}')
+print(f'Subtraindo {n1} e {n2} temos {n1-n2}')
+print(f'Multiplicando {n1} e {n2} temos {n1*n2}')
+print(f'Dividindo {n1} e {n2} temos {n1/n2}')
+print(f'módulo de {n1} com {n2} temos {n1%n2}')
